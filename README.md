@@ -1,3 +1,5 @@
 This was coded out of boredom and learning experience.
-To start the Programm open the *[output](/output)* folder and double-click the **EXE** file.
+EXE download is in release 1.0.0
 Have fun!
+---
+***ARCHIVED***
